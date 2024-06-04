@@ -1,7 +1,7 @@
-SOS Dengue
+SOS Dengue 🦟
 
-- 
-SOS Dengue é uma aplicação destinada a monitorar sintomas de dengue e permitir a denúncia de focos da doença. O objetivo é ajudar na prevenção e controle da dengue, facilitando a coleta de dados e a comunicação com autoridades de saúde pública.
+
+- SOS Dengue é uma aplicação destinada a monitorar sintomas de dengue e permitir a denúncia de focos da doença. O objetivo é ajudar na prevenção e controle da dengue, facilitando a coleta de dados e a comunicação com autoridades de saúde pública.
 
 ## Funcionalidades
 - Submissão de Questionário de Sintomas: Usuários podem preencher um formulário relatando seus sintomas de dengue.
